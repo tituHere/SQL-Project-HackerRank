@@ -1,5 +1,5 @@
 QUESTION:
-https://www.hackerrank.com/challenges/occupations/
+https://www.hackerrank.com/challenges/occupations/ 
 
 FUNCTIONS USED:
 1. ROW_NUMBER()
