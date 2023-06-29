@@ -6,7 +6,7 @@ SELECT
     Name || '(' || SUBSTR(Occupation,1,1) || ')'
 FROM OCCUPATIONS
 ORDER BY 1;
- 
+
 SELECT
     'There are a total of ' || COUNT(Name) || ' ' || LOWER(Occupation)
     || 's.'
